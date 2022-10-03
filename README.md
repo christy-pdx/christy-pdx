@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @christy-pdx
-- ✨ I’m interested in the evolution of human consciousness 
-- 🔭 I’m currently learning web3
-- 🌈 Twitter: @christypdxeth
+✨ Hi! I’m @christy-pdx
+<br>✨ Twitter: @christypdxeth
 
 <!---
 christy-pdx/christy-pdx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
