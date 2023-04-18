@@ -1,5 +1,4 @@
-✨ Hi! I’m @christy-pdx
-<br>✨ Twitter: @christypdxeth
+😎 @christypdxeth
 
 <!---
 christy-pdx/christy-pdx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
